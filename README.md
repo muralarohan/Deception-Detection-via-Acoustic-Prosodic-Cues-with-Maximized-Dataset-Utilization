@@ -1,10 +1,10 @@
-## Deception-Detection-via-Acoustic-Prosodic-Cues-with-Maximized-Dataset-Utilization
+# Deception-Detection-via-Acoustic-Prosodic-Cues-with-Maximized-Dataset-Utilization
 
-# Overview
+## Overview
 
 This project implements a method for detecting deception in speech by leveraging acoustic and prosodic cues. The approach focuses on maximizing dataset utilization to improve performance and generalizability. Thee data
 
-# Features
+## Features
 - Dataset Preprocessing: Efficient handling and preprocessing of audio data for analysis.
 
 - Feature Extraction: Extraction of acoustic and prosodic features from speech samples.
@@ -13,7 +13,7 @@ This project implements a method for detecting deception in speech by leveraging
 
 - Evaluation Metrics: Performance evaluation using metrics such as accuracy, precision, recall, and F1-score.
 
-# Summary of Dataset Maximization
+## Summary of Dataset Maximization
 
 1) Audio Segmentation:
 
@@ -38,5 +38,5 @@ Aggregating features from overlapping segments preserves context and temporal de
 Handling Redundancy: Overlapping segments ensure no critical information is missed.
 Expanding Dataset: Segmentation creates more samples, improving generalization.
 
-Advantages: Increases dataset size, captures nuanced cues, and preserves context for improved model performance.
+### Advantages: Increases dataset size, captures nuanced cues, and preserves context for improved model performance.
 
