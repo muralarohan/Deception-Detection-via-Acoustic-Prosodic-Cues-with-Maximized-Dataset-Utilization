@@ -13,7 +13,7 @@ This project implements a method for detecting deception in speech by leveraging
 
 - Evaluation Metrics: Performance evaluation using metrics such as accuracy, precision, recall, and F1-score.
 
-## Summary of Dataset Maximization
+## How is Dataset Maximized?
 
 1) Audio Segmentation:
 
